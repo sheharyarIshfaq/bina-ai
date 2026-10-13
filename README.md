@@ -50,3 +50,7 @@ Run one side only with `npm run dev:backend` or `npm run dev:frontend`.
 - **`MISTRAL_API_KEY is not set`:** the key is missing from `backend/.env`. Restart `npm run dev` after adding it.
 
 Everything else (the three processed CNIL decisions, the funder list, the radar results) is committed under `backend/data/`, so the app works right after cloning.
+
+## License
+
+Proprietary. Copyright (c) 2026 Bina. All rights reserved. See [LICENSE](LICENSE): no use, copying or distribution without written permission from Bina.

@@ -1,6 +1,7 @@
 {
   "name": "bina-ai",
   "private": true,
+  "license": "UNLICENSED",
   "description": "CNIL data-breach sanctions turned into fundable collective actions",
   "engines": {
     "node": ">=20.9"
